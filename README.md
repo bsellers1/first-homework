@@ -1,22 +1,12 @@
 # <First-Homework>
 
-## Description
+## Your Task
 
-- This is the first homework assignment.
-- Removing non sematic tags and replacing with sematic tags.
-- Simplifying the CSS page
+It is an odd-numbered week, your challenge this week is an on-the-job ticket. You'll be provided with starter code that you need to modify.
 
-## Installation
+## Refactoring
 
-"NA"
-
-## Usage
-
-Clean up the non semantic tags located in the index.html file and simplify the CSS file as well.
-
-## Credits
-
-"NA"
+You will be working on improving the code to make it more accesible.
 
 ## User Story
 
@@ -37,3 +27,9 @@ Clean up the non semantic tags located in the index.html file and simplify the C
 - THEN they fall in sequential order
 - WHEN I view the title element
 - THEN I find a concise, descriptive title
+
+## Links
+
+![Screenshot] (http:// imgC:\Users\bsell\Downloads\Screenshot of website.png)
+
+- LiveLink: https://bsellers1.github.io/first-homework/
